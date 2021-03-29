@@ -1,5 +1,6 @@
 ### Hi there 👋
-### My name is Alijon
+My name is Alijon.
+I am jinior web developer.
 
 <!--
 **AlijonAbduxamitov/Alijonabduxamitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
